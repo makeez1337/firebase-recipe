@@ -1,6 +1,6 @@
 import React from 'react';
 
-// noinspection ES6UnusedImports
+//es-lint-disable-next-line no-unused-vars
 import firebase from './FirebaseConfig';
 
 import './App.css';
