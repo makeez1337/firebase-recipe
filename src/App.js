@@ -1,5 +1,6 @@
 import React from 'react';
 
+// noinspection ES6UnusedImports
 import firebase from './FirebaseConfig';
 
 import './App.css';
